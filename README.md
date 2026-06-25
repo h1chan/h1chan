@@ -1,1 +1,1 @@
-https://githubcard.com/h1chan.svg?d=zJudOnDd
+![GitHubCard](https://githubcard.com/g/zJudOnDd.svg)
