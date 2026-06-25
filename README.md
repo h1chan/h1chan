@@ -1,1 +1,10 @@
-![GitHubCard](https://githubcard.com/g/zJudOnDd.svg)
+# 👾 h1chan
+
+> *static vision // network phantom*
+
+```text
+       _  _        _
+  _ __| || |  ___ | |__   __ _ _ __
+ | '_ \  || |_/ __|| '_ \ / _` | '_ \
+ | | | |  ||  \___ \| | | | (_| | | | |
+ |_| |_|__||__|___/|_| |_|\__,_|_| |_|
