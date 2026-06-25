@@ -58,7 +58,7 @@
 <!--![PHP](https://img.shields.io/badge/PHP-111?style=for-the-badge&logo=php&logoColor=FFFFFF)-->
 <!--![Java](https://img.shields.io/badge/Java-111?style=for-the-badge&logo=java&logoColor=FFFFFF)-->
 <!--![HTML5](https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=FFFFFF)-->
-![Bash](https://img.shields.io/badge/Bash-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+<!--![Bash](https://img.shields.io/badge/Bash-111?style=for-the-badge&logo=css3&logoColor=FFFFFF)-->
 ![GitHub](https://img.shields.io/badge/GitHub-111?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![VSCode](https://img.shields.io/badge/VSCode-111?style=for-the-badge&logo=visualstudiocode&logoColor=FFFFFF)
 
